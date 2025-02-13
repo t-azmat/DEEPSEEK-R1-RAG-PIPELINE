@@ -1,4 +1,4 @@
-# **DeepSeek RAG Pipeline**  
+# **DeepSeek-r1 RAG Pipeline**  
 
 This repository features a **Retrieval-Augmented Generation (RAG) pipeline** powered by **DeepSeek-r1:1.5b**, designed for efficient document-based retrieval and AI-driven response generation.  
 
